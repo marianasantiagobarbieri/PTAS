@@ -27,7 +27,7 @@ app.get('/descriptografia', (req, res) => {
 });
 
 
-/* listen(3000 ou /criptografai)
+/* listen(3000 ou /criptografado)
    return textoCriptografado
    res.send
 */
